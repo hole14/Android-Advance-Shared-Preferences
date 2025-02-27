@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">MySharedPreferences</string>
+    <string name="name">Name</string>
+    <string name="dummy_name">Kholish Ibrohim</string>
+    <string name="email">Email</string>
+    <string name="dummy_email">kholisibrohim37@gmail.com</string>
+    <string name="phone_number">No Handphone</string>
+    <string name="dummynumber">085156973254</string>
+    <string name="age">Age</string>
+    <string name="dummyage">19 tahun</string>
+    <string name="love_cdrama">Suka Cdrama</string>
+    <string name="dummyislove">Is Love CDrama</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="change">Ubah</string>
 </resources>
